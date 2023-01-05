@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "mongodb": "^3.3.4",
     "mongoose": "^5.7.11",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "validator": "^12.0.0"
   },
   "devDependencies": {
